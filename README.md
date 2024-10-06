@@ -49,7 +49,7 @@ To run the simulations and code in this repository, ensure you have the followin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/automatic-control.git
+   git clone https://github.com/Grandediw/automatic-control.git
    cd automatic-control
    ```
 
