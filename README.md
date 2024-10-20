@@ -12,9 +12,6 @@ This repository is dedicated to projects and solutions related to automatic cont
 - **`docs/`**: Documentation and reports explaining the various control methods used in the projects.
   - Reports and notes on control theory, system dynamics, and the design process.
 
-- **`simulations/`**: Simulations demonstrating the behavior of systems under different control strategies.
-  - MATLAB/Simulink models for automatic control systems and their simulations.
-
 - **`projects/`**: Contains specific control projects, each focusing on a particular control problem (e.g., rotary inverted pendulum, motor control).
   
 - **`README.md`**: Overview of the repository and general instructions.
